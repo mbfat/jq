@@ -1,0 +1,27 @@
+
+
+https://blog.knoldus.com/introduction-to-jq/ 
+https://docs.chocolatey.org/en-us/choco/setup#more-install-options
+https://community.chocolatey.org/install.ps1 
+https://www.youtube.com/watch?v=FSn_38gDvzM
+
+. is the print function
+jq supports piping
+run in powershell as admin
+Out-File to a .json file
+
+jq .'C:\Users\michael.bence\OneDrive - Fatbeam\Documents\obsidian\.obsidian\Fatbeam\software\firefox\bkmk-01.json' | Out-File .\prettiedJson.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
